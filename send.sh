@@ -7,5 +7,5 @@ file=1.txt
 mkdir -p ${WORKSPACE}/test
 cp $file ${WORKSPACE}/test/
 
-declare -x  TEST="123"
-declare -x  CLEAN="456"
+TEST="123"
+CLEAN="456"
