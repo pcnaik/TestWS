@@ -7,5 +7,5 @@ file=1.txt
 mkdir -p ${WORKSPACE}/test
 cp $file ${WORKSPACE}/test/
 
-echo "TEST=\"123\"" > ENV.txt
-echo "CLEAN=\"456\"" >> ENV.txt
+echo "TEST=\"123\"" > ${WORKSPACE}/ENV.txt
+echo "CLEAN=\"456\"" >> ${WORKSPACE}/ENV.txt
