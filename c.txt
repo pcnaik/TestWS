@@ -1,4 +1,6 @@
 CAT 
 BAT 
 MAT
-
+RAT
+STAT
+LOTTO
